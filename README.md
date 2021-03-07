@@ -1,24 +1,27 @@
-# README
+# Portfolio name : タスクメモ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+一日にやるタスクをメモして終われば黒く塗りつぶす簡単なタスク管理をイメージしたアプリです。
 
-Things you may want to cover:
+# Url: 
 
-* Ruby version
+# ID/Pass
 
-* System dependencies
+* ID: kazugo
+* Pass: 0634
+* Githubリポジトリ: https://github.com/yamakazugo/ajax_app-5
 
-* Configuration
 
-* Database creation
+# Demo
 
-* Database initialization
+*ユーザー管理機能：アカウント情報を管理する。
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+# テーブル設計
 
-* Deployment instructions
+## posts テーブル
 
-* ...
+| Column   | Type   | Options     |
+| -------- | ------ | ----------- |
+| text     | text   | null: false |
+
+
