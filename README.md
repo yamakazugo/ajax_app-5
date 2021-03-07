@@ -2,7 +2,7 @@
 
 一日にやるタスクをメモして終われば黒く塗りつぶす簡単なタスク管理をイメージしたアプリです。
 
-# Url: 
+# Url: https://ajax-app-5.herokuapp.com/
 
 # ID/Pass
 
